@@ -1,0 +1,15 @@
+D:\zuyd\c#\week 1\BlackjackFormsApp\bin\Debug\BlackjackFormsApp.exe.config
+D:\zuyd\c#\week 1\BlackjackFormsApp\bin\Debug\BlackjackFormsApp.exe
+D:\zuyd\c#\week 1\BlackjackFormsApp\bin\Debug\BlackjackFormsApp.pdb
+D:\zuyd\c#\week 1\BlackjackFormsApp\obj\Debug\BlackjackFormsApp.csproj.AssemblyReference.cache
+D:\zuyd\c#\week 1\BlackjackFormsApp\obj\Debug\BlackjackFormsApp.csproj.SuggestedBindingRedirects.cache
+D:\zuyd\c#\week 1\BlackjackFormsApp\obj\Debug\BlackjackFormsApp.Settings.resources
+D:\zuyd\c#\week 1\BlackjackFormsApp\obj\Debug\BlackjackFormsApp.Properties.Resources.resources
+D:\zuyd\c#\week 1\BlackjackFormsApp\obj\Debug\BlackjackFormsApp.csproj.GenerateResource.cache
+D:\zuyd\c#\week 1\BlackjackFormsApp\obj\Debug\BlackjackFormsApp.csproj.CoreCompileInputs.cache
+D:\zuyd\c#\week 1\BlackjackFormsApp\obj\Debug\BlackjackFormsApp.exe
+D:\zuyd\c#\week 1\BlackjackFormsApp\obj\Debug\BlackjackFormsApp.pdb
+D:\zuyd\c#\week 1\BlackjackFormsApp\obj\Debug\BlackjackFormsApp.Table.resources
+D:\zuyd\c#\week 1\BlackjackFormsApp\obj\Debug\BlackjackFormsApp.PlayerInit.resources
+D:\zuyd\c#\week 1\BlackjackFormsApp\obj\Debug\BlackjackFormsApp.AddBet.resources
+D:\zuyd\c#\week 1\BlackjackFormsApp\obj\Debug\BlackjackFormsApp.Player.resources
